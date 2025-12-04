@@ -43,6 +43,7 @@ The system takes any user-uploaded document and intelligently answers questions 
 - 🔑 Supports OpenAI/Groq API for LLM generation  
 
 ---
-
+## 🚀 Live Demo  
+👉 [Click here to open the Live App]:https://resume-smart.streamlit.app/
 
 
